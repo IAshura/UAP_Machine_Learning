@@ -47,29 +47,29 @@ dependencies = ["streamlit>=1.41.1", "joblib>=1.4.2", "cv>=1.0.0", "opencv-pytho
 
 ![image](assets/Inception_V3/Plot_visualization_Inception_V3.png)
 
-Plot diatas menunjukkan bahwa *Model Accuracy* cukup stabil dalam proses training, namun *Model Loss* mengalami *overfitting* yang ditandai dengan grafik berfluktuasi yang tidak wajar.
+Plot diatas menunjukkan bahwa *Model Accuracy* sangat baik dan stabil, dan *Model Loss* mengalami sangat baik mempelajari pola sehingga loss menurun.
 
 ![image](assets/Inception_V3/Classfification_report.png)
 
-Gambar diatas menunjukkan *Classification Report* dari Model InceptionV3 menghasilkan nilai akurasi sebesar *90%* yang dapat digolongkan cukup optimal.
+Gambar diatas menunjukkan *Classification Report* dari Model InceptionV3 menghasilkan nilai akurasi sebesar *95%* yang dapat digolongkan optimal.
 
 ![image](assets/Inception_V3/Confusion_Matrix.png)
 
-Confusion Matrix tersebut menunjukkan bahwa model mampu memprediksi citra dengan cukup baik dengan kesalahan yang tidak terlalu signifikan.
+Confusion Matrix tersebut menunjukkan bahwa model mampu memprediksi citra dengan cukup baik dengan kesalahan yang sedikit.
 
 ### MobileNetV2 Model ✨
 
 ![image](assets/MobileNet_V2/Plot_visualization_MobileNet_V2.png)
 
-Plot diatas menunjukkan bahwa *Model Accuracy* cukup stabil dalam proses training dan *Model Loss* sudah dalam kategori cukup baik dibuktikan dengan grafik yang tidak fluktuatif.
+Plot diatas menunjukkan bahwa *Model Accuracy* sangat baik dan stabil, dan *Model Loss* mengalami sangat baik mempelajari pola sehingga loss menurun.
 
 ![image](assets/MobileNet_V2/Classification_report.png)
 
-Gambar diatas menunjukkan *Classification Report* dari Model InceptionV3 menghasilkan nilai akurasi sebesar **84%** yang dapat digolongkan cukup optimal.
+Gambar diatas menunjukkan *Classification Report* dari Model MobileNetV2 menghasilkan nilai akurasi sebesar **94%** yang dapat digolongkan cukup optimal.
 
 ![image](assets/MobileNet_V2/Confusion_Matrix.png)
 
-Confusion Matrix tersebut menunjukkan bahwa model mampu memprediksi citra dengan cukup baik dengan kesalahan yang tidak terlalu signifikan.
+Confusion Matrix tersebut menunjukkan bahwa model mampu memprediksi citra dengan cukup baik dengan kesalahan yang sedikir.
 
 ## Hasil Analisis
 Berdasarkan perbandingan dari kedua arsitektur di atas, InceptionV3 menjadi model yang unggul apabila dinilai dari segi akurasi, namun grafik loss mengalami overfit. Sedangkan apabila dinilai dari segi grafik validasi MobileNetV2 lebih unggul karena lebih baik namun dari segi akurasi berada di bawah InceptionV3. 
