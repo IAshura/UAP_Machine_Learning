@@ -80,7 +80,6 @@ Oleh karena itu, memungkinkan perlunya dilakukan perbaikan dalam pre-processing 
 ### Tampilan HomePage
 
 ![image](assets/hp1.png)
-![image](assets/hp2.png)
 
 ### Tampilan HomePage Setelah Upload Image
 
