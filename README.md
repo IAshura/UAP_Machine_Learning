@@ -1,10 +1,11 @@
 # ✨ e-Traffic : Klasifikasi rambu lalu lintas Menggunakan InceptionV3 & MobileNetV2 ✨
 
 ## Latar Belakang & Tujuan
-Rambu lalu lintas merupakan elemen penting dalam sistem transportasi jalan raya yang berfungsi memberikan informasi, peringatan, larangan, atau petunjuk kepada pengguna jalan. 
+  Rambu lalu lintas merupakan elemen penting dalam sistem transportasi jalan raya yang berfungsi memberikan informasi, peringatan, larangan, atau petunjuk kepada pengguna jalan. 
 Rambu ini berperan menciptakan keteraturan, meningkatkan keselamatan, dan mengurangi risiko kecelakaan di jalan raya.
-Sebagaimana diatur dalam Pasal 28 Ayat (1) Undang-Undang Nomor 22 Tahun 2009 tentang Lalu Lintas dan Angkutan Jalan, yang berbunyi:  “Setiap jalan yang digunakan untuk lalu lintas umum wajib dilengkapi dengan perlengkapan jalan berupa rambu lalu lintas, marka jalan, alat pemberi isyarat lalu lintas, alat pengendali dan pengaman pengguna jalan, serta fasilitas pendukung lainnya.”
-Oleh karena itu, aplikasi ini dibuat untuk membantu masyarakat memahami arti dan fungsi rambu lalu lintas secara lebih mudah dan interaktif.  Silakan unggah gambar rambu, pilih model yang tersedia, dan tekan tombol Predict untuk mendapatkan hasil prediksi.
+
+  Sebagaimana diatur dalam Pasal 28 Ayat (1) Undang-Undang Nomor 22 Tahun 2009 tentang Lalu Lintas dan Angkutan Jalan, yang berbunyi:  “Setiap jalan yang digunakan untuk lalu lintas umum wajib dilengkapi dengan perlengkapan jalan berupa rambu lalu lintas, marka jalan, alat pemberi isyarat lalu lintas, alat pengendali dan pengaman pengguna jalan, serta fasilitas pendukung lainnya.”
+  Oleh karena itu, aplikasi ini dibuat untuk membantu masyarakat memahami arti dan fungsi rambu lalu lintas secara lebih mudah dan interaktif.  Silakan unggah gambar rambu, pilih model yang tersedia, dan tekan tombol Predict untuk mendapatkan hasil prediksi.
 
 **Link Dataset yang digunakan:** [Indonesia Traffic Dataset](https://www.kaggle.com/datasets/cakrulgaming/indonesia-traffic-sign).
 
